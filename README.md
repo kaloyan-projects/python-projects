@@ -5,8 +5,9 @@ Python programs for automating various tasks.
 ### Standalone scripts
 1. [Base Converter](base_converter.py) – Simple program for converting between bases.
 2. [Letter Frequency Diagram](letter_frequency_diagram.py) – Provide path to a text file and get the frequency of each letter, along with a diagram.
+3. [File date diagram](file_date_diagram.py) – Creates a diagram showing the frequency of file modifications over time
 ### Blender Addons
-3. [Render Regions](BlenderAddons/render_regions.py) – Easly splits the frame into halfs and thirds for rendering separate regions.
+4. [Render Regions](BlenderAddons/render_regions.py) – Easly splits the frame into halfs and thirds for rendering separate regions.
 
 ## Run
 ### Standalone scripts
