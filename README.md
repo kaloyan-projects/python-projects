@@ -7,8 +7,9 @@ Python programs for automating various tasks.
 2. [Letter Frequency Diagram](letter_frequency_diagram.py) – Provide path to a text file and get the frequency of each letter, along with a diagram.
 3. [File date diagram](file_date_diagram.py) – Creates a diagram showing the frequency of file modifications over time.
 4. [Shuffle video](shuffle_video.py) – Shuffles a video, along with the audio and saves it to a new file.
+5. [Image-Text Converter](img_txt_converter.py) – Converts text to an image and an image to text.
 ### Blender Addons
-5. [Render Regions](BlenderAddons/render_regions.py) – Easly splits the frame into halfs and thirds for rendering separate regions.
+6. [Render Regions](BlenderAddons/render_regions.py) – Easly splits the frame into halfs and thirds for rendering separate regions.
 
 ## Run
 ### Standalone scripts
