@@ -11,6 +11,7 @@ Python programs for automating various tasks.
 6. [SRT to Bash](srt_to_bash.py) – Converts a subtitle file to a bash script that echoes lines to the terminal with the appropriate delay.
 ### Blender Addons
 7. [Render Regions](BlenderAddons/render_regions.py) – Easly splits the frame into halfs and thirds for rendering separate regions.
+8. [PDF to textured planes](BlenderAddons/pdf_pages.py) – Import PDF files as individual planes with the rasterized pages as textures.
 
 ## Run
 ### Standalone scripts
